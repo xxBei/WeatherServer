@@ -1,3 +1,4 @@
 signin.php 是天气预报tian中的登录接口
 register.php 是天气预报tian中的注册接口
 mysqlConn.php 是天气预报tian中的数据库连接，是给上面两个文件提供数据库连接的
+weather.sql 是天气预报的数据库文件
