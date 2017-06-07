@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: 2017-06-05 11:45:35
+-- Generation Time: 2017-06-07 17:38:21
 -- 服务器版本： 5.7.14
 -- PHP Version: 5.6.30
 
@@ -19,6 +19,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `weather`
 --
+CREATE DATABASE IF NOT EXISTS `weather` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `weather`;
 
 -- --------------------------------------------------------
 
